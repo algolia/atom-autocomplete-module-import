@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "algoliasearch": "^3.23.0",
+    "algoliasearch-helper": "^2.20.1",
     "lodash.escaperegexp": "^4.1.2",
     "pkg-up": "^2.0.0"
   },
