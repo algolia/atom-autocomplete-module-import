@@ -16,6 +16,12 @@ This Atom Plugin allows you to quickly find and install any npm module as you ar
   * Save package as `dependencies`, `devDependencies`, `peerDependencies` or `optionalDependencies`.
   * Support for `require()` and ES2015 import module syntax.
 
+## Installation
+
+```
+apm install autocomplete-module-import
+```
+
 ## Usage
 
 In a JavaScript file type `require('` and the plugin will automatically suggest relevant packages from the NPM registry.
