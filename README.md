@@ -10,7 +10,7 @@
 
 This Atom Plugin allows you to quickly find and install any npm module as you are writing your `require()` / `import` statements:
 
-  * **Fast** & **Relevant** autocomplete feature (powered by [Algolia][1]).
+  * **Fast** & **Relevant** [autocomplete search powered by Algolia][1].
   * Install modules without having to leave Atom.
   * Yarn and NPM support.
   * Save package as `dependencies`, `devDependencies`, `peerDependencies` or `optionalDependencies`.
