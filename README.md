@@ -24,7 +24,7 @@ apm install autocomplete-module-import
 
 ## Usage
 
-In a JavaScript file type `require('` and the plugin will automatically suggest relevant packages from the NPM registry.
+In a JavaScript file type `require('` (or `from '`) and the plugin will automatically suggest relevant packages from the NPM registry.
 
 Once you confirm your selection, the plugin will ask if you want to install the dependency if it's not already installed.
 
