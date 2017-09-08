@@ -1,3 +1,13 @@
+<a name="0.1.2"></a>
+## [0.1.2](https://github.com/algolia/atom-autocomplete-module-import/compare/v0.1.1...v0.1.2) (2017-09-08)
+
+
+### Bug Fixes
+
+* **search:** only retrieve needed attributes ([1cf4857](https://github.com/algolia/atom-autocomplete-module-import/commit/1cf4857))
+
+
+
 <a name="0.1.1"></a>
 ## [0.1.1](https://github.com/algolia/atom-autocomplete-module-import/compare/v0.1.0...v0.1.1) (2017-06-22)
 
