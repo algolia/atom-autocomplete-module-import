@@ -16,6 +16,8 @@ This Atom Plugin allows you to quickly find and install any npm module as you ar
   * Save package as `dependencies`, `devDependencies`, `peerDependencies` or `optionalDependencies`.
   * Support for `require()` and ES2015 import module syntax.
 
+You can read more about the story behind in [this][2] blog post.
+
 ## Installation
 
 ```
@@ -34,3 +36,4 @@ Once you confirm your selection, the plugin will ask if you want to install the 
 Copyright (c) 2017 Algolia. Code released under the [MIT license](https://github.com/algolia/atom-autocomplete-module-import/blob/master/LICENSE.md).
 
 [1]: https://www.algolia.com
+[2]: https://blog.algolia.com/atom-plugin-install-npm-module/
