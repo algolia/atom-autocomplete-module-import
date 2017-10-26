@@ -21,6 +21,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "scripts": {
+    "test": "yarn run lint",
     "lint": "eslint lib",
     "lint:fix": "yarn run lint -- --fix",
     "changelog": "conventional-changelog --preset angular --infile CHANGELOG.md --same-file",
