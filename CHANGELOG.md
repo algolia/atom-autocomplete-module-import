@@ -1,3 +1,13 @@
+<a name="0.2.0"></a>
+# [0.2.0](https://github.com/algolia/atom-autocomplete-module-import/compare/v0.1.3...v0.2.0) (2017-12-20)
+
+
+### Features
+
+* enable completions for TypeScript ([986ff31](https://github.com/algolia/atom-autocomplete-module-import/commit/986ff31))
+
+
+
 <a name="0.1.3"></a>
 ## [0.1.3](https://github.com/algolia/atom-autocomplete-module-import/compare/v0.1.2...v0.1.3) (2017-10-26)
 
