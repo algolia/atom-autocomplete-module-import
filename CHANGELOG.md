@@ -1,3 +1,13 @@
+<a name="0.3.0"></a>
+# [0.3.0](https://github.com/algolia/atom-autocomplete-module-import/compare/v0.2.0...v0.3.0) (2018-02-16)
+
+
+### Features
+
+* enable autocompletion in coffescript files ([43c58a3](https://github.com/algolia/atom-autocomplete-module-import/commit/43c58a3))
+
+
+
 <a name="0.2.0"></a>
 # [0.2.0](https://github.com/algolia/atom-autocomplete-module-import/compare/v0.1.3...v0.2.0) (2017-12-20)
 
